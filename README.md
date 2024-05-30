@@ -1,1 +1,1 @@
-![Antarty-V logo](https://github.com/brunoalexandrefraga/antarty-v/assets/8648411/ae4d2cec-1442-4762-8c96-a1f655ce4ba7)
+![Hardware](https://github.com/brunoalexandrefraga/antarty-hardware/assets/8648411/af9ab991-cb94-4e92-96e2-33ea336a6516)
